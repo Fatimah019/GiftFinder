@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GiftFinder/static/css/main.e11174f1.chunk.css",
+    "main.js": "/GiftFinder/static/js/main.32a2b362.chunk.js",
+    "main.js.map": "/GiftFinder/static/js/main.32a2b362.chunk.js.map",
+    "runtime-main.js": "/GiftFinder/static/js/runtime-main.a130d94c.js",
+    "runtime-main.js.map": "/GiftFinder/static/js/runtime-main.a130d94c.js.map",
+    "static/js/2.9a3a964f.chunk.js": "/GiftFinder/static/js/2.9a3a964f.chunk.js",
+    "static/js/2.9a3a964f.chunk.js.map": "/GiftFinder/static/js/2.9a3a964f.chunk.js.map",
+    "index.html": "/GiftFinder/index.html",
+    "precache-manifest.09a0446df6c2376cd2b4aff6d51440c3.js": "/GiftFinder/precache-manifest.09a0446df6c2376cd2b4aff6d51440c3.js",
+    "service-worker.js": "/GiftFinder/service-worker.js",
+    "static/css/main.e11174f1.chunk.css.map": "/GiftFinder/static/css/main.e11174f1.chunk.css.map",
+    "static/js/2.9a3a964f.chunk.js.LICENSE.txt": "/GiftFinder/static/js/2.9a3a964f.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/GiftFinder/static/media/img7.5f2071b4.jpg",
+    "static/media/img3.jpg": "/GiftFinder/static/media/img3.2bfec249.jpg",
+    "static/media/img4.jpg": "/GiftFinder/static/media/img4.47f7cb05.jpg",
+    "static/media/img5.jpg": "/GiftFinder/static/media/img5.1e18e08d.jpg",
+    "static/media/img6.jpg": "/GiftFinder/static/media/img6.0293c076.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a130d94c.js",
+    "static/js/2.9a3a964f.chunk.js",
+    "static/css/main.e11174f1.chunk.css",
+    "static/js/main.32a2b362.chunk.js"
+  ]
+}
