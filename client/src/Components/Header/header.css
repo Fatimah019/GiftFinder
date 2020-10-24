@@ -1,0 +1,12 @@
+.header{
+    background:#FAFAFA;
+    height: 80px;
+}
+.gift-finder-link-header{
+    background: #FAFAFA;
+    border: 1px solid #F7941E;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color:#F7941E;
+    padding: 5px 15px;
+}

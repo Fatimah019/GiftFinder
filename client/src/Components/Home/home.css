@@ -1,0 +1,132 @@
+.top-home, .top-home-2{
+    background: #F1F1F2;
+    height: 600px;
+}
+.top-home-2{
+    height: 700px;
+}
+.top-left h2, .top-left p, .top-left .find-gift-top-link{
+    padding-left:50px;
+    padding-right: 50px;
+}
+.top-left .find-gift-top-link{
+    background: #F7941E;
+    border-radius: 5px;
+    margin-left:50px;
+    color: #fff;
+    font-size:18px;
+    padding:5px 15px;
+}
+.top-right{
+    background-image: url('./img/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+}
+
+/* second layer */
+.top-left-2{
+    background-image: url('./img/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+}
+.top-right-2 h2, .top-right-2 p, .top-right-2 .learn-more-link{
+    padding-left:50px;
+    padding-right: 50px;
+}
+.top-right-2 .learn-more-link{
+    border: 1px solid #F7941E;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left:50px;
+    font-size:18px;
+    padding:5px 15px;
+    color: #F7941E;
+}
+
+.occ-gift-imgs div{
+    margin:10px 10px;
+    background: #FAFAFA;
+}
+
+
+.get-started-con{
+    background: #F7941E;
+    margin-top:50px;
+    padding:20px 0px;
+}
+.contact-link, .signup-link{
+    color:#000;
+    font-size: 24px;
+}
+.how-it-works-link, .find-gift-link-2{
+    padding:10px 15px;
+    border-radius: 5px;
+    border: 1px solid #000000;  
+    margin:0px 5px;
+}
+.find-gift-link-2{
+    color:#fff;
+    background: #000;  
+}
+.how-it-works-link{
+    background: #F7941E;
+    color:#000;
+}
+.blog-img-con{
+    background: #000; 
+}
+.blog-img{
+    background-image: url('./img/img7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+}
+.blog-img-con-left{
+    width: 40%;
+}
+.blog-img-con-right{
+    color:#fff;
+    padding:10px 10px;
+    width:60%;
+}
+.read-more-link{
+    color:#fff;
+}
+
+.blog-text-con div{
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+    padding:10px 20px;
+}
+
+@media screen and (max-width:768px){
+    .top-home{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .how-it-works-link, .find-gift-link-2{ 
+        margin:15px 5px;
+    }
+}
+
+
+@media screen and (max-width:480px){
+    .how-it-works-link, .find-gift-link-2{ 
+        margin:5px 0px;
+    }
+    .get-started-con-right{
+        flex-direction: column;
+    }
+    .blog-img-con-left{
+        display: none;
+    }
+    .blog-img-con-right{
+        width: 100%;
+        padding:20px 20px;
+    }
+}
